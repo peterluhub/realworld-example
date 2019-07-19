@@ -4,7 +4,6 @@ import React from 'react';
 import { HashRouter } from 'react-router-dom';
 import promiseFinally from 'promise.prototype.finally';
 
-import App from './components/App';
 
 import * as bindings from './stateHandlers/state';
 
@@ -16,6 +15,7 @@ setcfg({
   trace: true,
   bindings
 });
+import App from './components/App';
 
 promiseFinally.shim();
 

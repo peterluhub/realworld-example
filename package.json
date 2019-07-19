@@ -1,15 +1,26 @@
 {
-  "name": "realworl example apps with XSM",
+  "name": "realworld_example_apps_with_XSM",
   "version": "1.0.0",
-  "description": ""realworl example app implementations that use XSM to manage the app state",
+  "description": "realworld example app implementations that use XSM to manage the app state",
   "main": "index.js",
   "scripts": {
+    "serve": "serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["XSM", "state management", "react", "vue", "angular"],
+  "keywords": [
+    "XSM",
+    "state management",
+    "react",
+    "vue",
+    "angular"
+  ],
   "author": "Peter Lu",
   "license": "MIT",
   "dependencies": {
-    "create-react-app": "^3.0.1"
+    "create-react-app": "^3.0.1",
+    "serve": "^11.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5"
   }
 }
