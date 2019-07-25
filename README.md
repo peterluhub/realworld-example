@@ -19,3 +19,5 @@ Run the following to bring up the web server and see it in the browser:
 npm run serve ./xsm-react/dist
 ```
 
+#####Note
+The angular-xsm app is work-in-progress.  The work has just started.
