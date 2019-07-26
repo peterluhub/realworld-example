@@ -5,7 +5,7 @@ It strides to demostrate that you can write the state and API code once and use 
 ## Install
 Install this package: 
 ```sh
-npm install realworld_example_apps_with_XSM
+npm install realworld_example_apps_with_xsm
 ```
 
 Run in the same directory(package root directory) of this README.md:
