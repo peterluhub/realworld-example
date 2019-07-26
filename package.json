@@ -1,9 +1,10 @@
 {
   "name": "realworld_example_apps_with_XSM",
-  "version": "1.5.0",
+  "version": "1.8.0",
   "description": "realworld example app implementations that use XSM to manage the app state",
   "main": "index.js",
   "scripts": {
+    "start": "serve",
     "serve": "serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +17,12 @@
   ],
   "author": "Peter Lu",
   "license": "MIT",
+  "homepage": "https://github.com/peterluhub/realworld-example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterluhub/realworld-example.git"
+  },
   "dependencies": {
-    "create-react-app": "^3.0.1",
     "rw-xsm-handlers": "^1.7.0",
     "serve": "^11.1.0",
     "superagent": "^5.1.0",
