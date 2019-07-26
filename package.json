@@ -1,6 +1,6 @@
 {
   "name": "realworld_example_apps_with_xsm",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "description": "realworld example app implementations that use XSM to manage the app state",
   "main": "index.js",
   "scripts": {

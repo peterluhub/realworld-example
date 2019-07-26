@@ -3,9 +3,9 @@ It strides to demostrate that you can write the state and API code once and use 
 
 
 ## Install
-Install this package: 
+Clone this repo
 ```sh
-npm install realworld_example_apps_with_xsm
+git clone git@github.com:peterluhub/realworld-example.git
 ```
 
 Run in the same directory(package root directory) of this README.md:
