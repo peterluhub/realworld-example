@@ -27,7 +27,7 @@
     "serve": "^11.1.0",
     "superagent": "^5.1.0",
     "superagent-promise": "^1.1.0",
-    "xsm": "^1.1.5"
+    "xsm": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5"
