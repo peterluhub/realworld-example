@@ -8,7 +8,7 @@ import xsm from 'xsm';
 const {bindState} = xsm;
 
 const YourFeedTab = props => {
-  if (props.currentUser) {
+  if (props.currentUser && props.currentUser.username) {
 
     return (
       <li className="nav-item">
